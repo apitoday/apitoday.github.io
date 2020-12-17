@@ -1,0 +1,8 @@
+title: API Today
+description: "Build and deploy your APIs today "
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-architect
+
+gems:
+  - jekyll-mentions
