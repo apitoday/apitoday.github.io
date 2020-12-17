@@ -1,8 +1,11 @@
 title: API Today
-description: 'Build and deploy your APIs today'
+description: 'Build, deploy, and secure your APIs today'
 google_analytics:
 show_downloads: true
 theme: jekyll-theme-architect
+
+# Build settings
+markdown: kramdown
 
 plugins:
   - jekyll-mentions
